@@ -1,0 +1,45 @@
+[Music] Cloud is a godsend
+for data scientists. Primarily because you're
+able to take [the] your data, take your information
+and put it in the Cloud, put it in a central
+storage system. It allows you to bypass the physical limitations of the computers and
+the systems you're using and it allows you to deploy the analytics and
+storage capacities of advanced machines that
+do not necessarily have to be your machine or your
+company's machine. Cloud allows you not just
+to store large amounts of data on servers somewhere
+in California or in Nevada, but it also allows you to deploy very advanced computing
+algorithms and the ability to do high-performance computing using machines that
+are not yours. Think of it as you have some information,
+you can't store it, so you send it to storage space, let's call it Cloud, and the algorithms
+that you need to use, you don't have them with you. But then on the Cloud, you have those
+algorithms available. So What you do is you deploy
+those algorithms on very large datasets and you're able to do it even
+though your own systems, your own machines, your
+own computing environments were not allowing you to do so. So Cloud is beautiful. The other thing that Cloud is beautiful for is that it allows multiple entities to work with same data at the same time. You can be working
+with the same data that your colleagues in say Germany and another team in India and another team in Ghana, they are collectively working and they're able to do so
+because the information, and the algorithms,
+and the tools, and the answers, and the results, whatever they needed is
+available at a central place, which we call Cloud.
+Cloud is beautiful. Using the Cloud enables you
+to get instant access to open source technologies
+like Apache Spark without the need to install
+and configure them locally. Using the Cloud also gives you access to the most
+up-to-date tools and libraries without the worry of maintaining them and ensuring
+that they are up to date. The Cloud is accessible from everywhere and in
+every time zone. You can use cloud-based
+technologies from your laptop,
+from your tablet, and even from your phone, enabling collaboration more
+easily than ever before. Multiple collaborators or teams can access the data
+simultaneously, working together on
+producing a solution. Some big tech companies
+offer Cloud platforms, allowing you to
+become familiar with cloud-based technologies in
+a pre-built environment. IBM offers the IBM Cloud, Amazon offers Amazon
+Web Services or AWS, and Google offers
+Google Cloud platform. IBM also provides Skills
+Network labs or SN labs to learners registered at any of the learning portals on the
+IBM Developer Skills Network, where you have access to tools like Jupyter Notebooks and Spark clusters so you can create your own data science project
+and develop solutions. With practice and familiarity, you will discover how
+the Cloud dramatically enhances productivity
+for data scientists. [Music]

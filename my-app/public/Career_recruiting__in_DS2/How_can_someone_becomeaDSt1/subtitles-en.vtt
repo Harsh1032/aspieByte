@@ -1,0 +1,431 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:16.460
+Music
+
+2
+00:00:16.460 --> 00:00:19.354
+A real data scientist, the
+high-end data scientists,
+
+3
+00:00:19.354 --> 00:00:21.306
+are mostly PhDs.
+
+4
+00:00:21.306 --> 00:00:24.932
+They often come out of
+physics, out of statistics,
+
+5
+00:00:24.932 --> 00:00:28.429
+they have to have a computer
+science background,
+
+6
+00:00:28.429 --> 00:00:30.214
+they have to have a math background,
+
+7
+00:00:30.214 --> 00:00:33.908
+they have to know about
+databases and statistics
+
+8
+00:00:33.908 --> 00:00:36.550
+and probability and all that stuff.
+
+9
+00:00:36.550 --> 00:00:40.221
+However, if you're coming
+into a data science team,
+
+10
+00:00:40.221 --> 00:00:44.021
+I think the first skills
+you need is you need
+
+11
+00:00:44.021 --> 00:00:46.325
+to know how to program,
+
+12
+00:00:46.325 --> 00:00:51.140
+at least have some computational thinking,
+
+13
+00:00:51.140 --> 00:00:53.476
+so having taken a programing course,
+
+14
+00:00:53.476 --> 00:00:57.160
+you need to know some algebra,
+at least up to analytics,
+
+15
+00:00:57.160 --> 00:01:01.040
+geometry, and hopefully some calculus,
+
+16
+00:01:01.040 --> 00:01:04.600
+some basic probability,
+some basic statistics,
+
+17
+00:01:04.600 --> 00:01:06.804
+I mean really have to
+understand the difference
+
+18
+00:01:06.804 --> 00:01:10.960
+and different statistical
+distributions, and database.
+
+19
+00:01:10.960 --> 00:01:13.200
+I mean, one of the easiest places to start
+
+20
+00:01:13.215 --> 00:01:17.052
+is relational databases,
+which stores lots and lots
+
+21
+00:01:17.052 --> 00:01:21.075
+of our data so people can
+first walk before they can run
+
+22
+00:01:21.075 --> 00:01:25.066
+by at least understanding
+about computers and databases
+
+23
+00:01:25.066 --> 00:01:28.639
+and how we store things
+and if you understand
+
+24
+00:01:28.639 --> 00:01:32.868
+relational databases
+nowadays you can still,
+
+25
+00:01:32.868 --> 00:01:36.120
+just with that understanding,
+use big data clusters
+
+26
+00:01:36.120 --> 00:01:38.660
+as if they were just a
+big relational database.
+
+27
+00:01:38.660 --> 00:01:40.414
+You don't have to really have
+understand the whole
+
+28
+00:01:40.414 --> 00:01:42.380
+MapReduce programming model.
+
+29
+00:01:42.380 --> 00:01:45.933
+But then, as you go
+further up in the field,
+
+30
+00:01:45.933 --> 00:01:49.577
+then you have to know a lot
+of computer science theory
+
+31
+00:01:49.577 --> 00:01:52.494
+and statistics, it's
+really, and probability,
+
+32
+00:01:52.494 --> 00:01:55.388
+it's really the intersection of them
+
+33
+00:01:55.388 --> 00:01:58.091
+that the high end data scientists,
+
+34
+00:01:58.091 --> 00:02:01.473
+the PhD data scientists work with.
+
+35
+00:02:01.480 --> 00:02:03.900
+(music)
+
+36
+00:02:04.940 --> 00:02:06.635
+I do a lot of self-learning.
+
+37
+00:02:06.640 --> 00:02:10.680
+I think everybody these days,
+
+38
+00:02:10.680 --> 00:02:14.480
+I mean, I learned about
+Hadoop all by myself,
+
+39
+00:02:14.480 --> 00:02:16.990
+I read some articles,
+I watched some videos,
+
+40
+00:02:16.990 --> 00:02:19.600
+I thought, I played,
+although I'm a builder,
+
+41
+00:02:19.600 --> 00:02:23.060
+I'm a tinkerer, so if I wanna figure out
+
+42
+00:02:23.068 --> 00:02:26.457
+how to do something, I build it.
+
+43
+00:02:26.460 --> 00:02:30.100
+I mean, my first HPC cluster
+
+44
+00:02:30.100 --> 00:02:34.840
+I heard about this term a Beowulf cluster,
+
+45
+00:02:34.840 --> 00:02:37.700
+I mean, yeah, what the hell's that?
+
+46
+00:02:37.717 --> 00:02:39.446
+So I looked it up and said, oh,
+
+47
+00:02:39.446 --> 00:02:41.208
+it's just a bunch of
+computers hooked together
+
+48
+00:02:41.208 --> 00:02:44.429
+with a TCP/IP network, that's pretty easy,
+
+49
+00:02:44.429 --> 00:02:47.241
+so we get a grant from Citi Bank
+
+50
+00:02:47.241 --> 00:02:50.644
+and we built a five
+thing cluster and I said,
+
+51
+00:02:50.644 --> 00:02:52.109
+oh, well, that's HPC.
+
+52
+00:02:52.109 --> 00:02:54.688
+I said, I had one of
+the first HPC clusters
+
+53
+00:02:54.688 --> 00:02:58.038
+at the university, it
+was tiny but a lot of our
+
+54
+00:02:58.038 --> 00:03:00.744
+researchers loved it
+because they could run stuff
+
+55
+00:03:00.744 --> 00:03:02.800
+40 and 50 times faster.
+
+56
+00:03:02.800 --> 00:03:06.176
+So I think one of the ways you
+learn things is you do them,
+
+57
+00:03:06.176 --> 00:03:10.697
+you have to do them, and these
+online learning platforms
+
+58
+00:03:10.697 --> 00:03:13.680
+especially now that we
+have things like IPython
+
+59
+00:03:13.680 --> 00:03:16.914
+and Jupyter Notebooks and I guess Zeppelin
+
+60
+00:03:16.914 --> 00:03:19.210
+means that you can actually go in
+
+61
+00:03:19.210 --> 00:03:21.544
+and take some of these courses
+
+62
+00:03:21.544 --> 00:03:23.884
+and you can do things right then
+
+63
+00:03:23.884 --> 00:03:27.380
+and you can see them and
+feel them and play with them
+
+64
+00:03:27.380 --> 00:03:30.363
+and, at that point, you know,
+you'll start to get your
+
+65
+00:03:30.363 --> 00:03:33.358
+head around what is actually happening.
+
+66
+00:03:33.360 --> 00:03:37.760
+Motivation is the key
+problem in all of these,
+
+67
+00:03:37.760 --> 00:03:39.531
+is how to keep people motivated
+
+68
+00:03:39.540 --> 00:03:44.940
+and I think the badge system
+that the, what was it,
+
+69
+00:03:44.940 --> 00:03:48.340
+Big Data University
+has, is one of the ways
+
+70
+00:03:48.349 --> 00:03:52.186
+is how do you get people
+to keep going through.
+
+71
+00:03:52.186 --> 00:03:56.180
+But if they want to, they can.
+
+72
+00:03:56.180 --> 00:03:58.915
+It's up to the individual to.
+
+73
+00:03:58.915 --> 00:04:01.669
+So they have to understand
+what the goal is.
+
+74
+00:04:01.669 --> 00:04:04.080
+(music)
+
+75
+00:04:05.400 --> 00:04:07.475
+The place it can't sit
+
+76
+00:04:07.480 --> 00:04:13.000
+is probably under the CIO,
+the Chief Information Officer.
+
+77
+00:04:13.000 --> 00:04:18.240
+CIOs current chief information
+officers in many companies
+
+78
+00:04:18.240 --> 00:04:20.657
+got there from an accounting background
+
+79
+00:04:20.657 --> 00:04:23.421
+or a finance background, they're clueless.
+
+80
+00:04:23.421 --> 00:04:24.254
+Sorry.
+
+81
+00:04:24.260 --> 00:04:29.920
+But they really, it has to
+come out of the research side.
+
+82
+00:04:29.920 --> 00:04:35.860
+So you'll find data scientists
+primarily in companies
+
+83
+00:04:35.860 --> 00:04:41.280
+that have some research
+agenda, pharmaceuticals,
+
+84
+00:04:41.280 --> 00:04:46.020
+finance, all of, any technology company.
+
+85
+00:04:46.020 --> 00:04:49.360
+If you look at, we can't keep some of our
+
+86
+00:04:49.369 --> 00:04:52.777
+PhD data scientists in our program,
+
+87
+00:04:52.777 --> 00:04:54.513
+they are now at Facebook,
+
+88
+00:04:54.513 --> 00:04:57.758
+they're at Linkedin, they're
+at Uber, they're at Lyft,
+
+89
+00:04:57.758 --> 00:05:00.586
+because the demand out
+there for the PhD level
+
+90
+00:05:00.586 --> 00:05:03.438
+data scientist is just unbelievable.
+
+91
+00:05:03.438 --> 00:05:05.180
+They make large amounts of money
+
+92
+00:05:05.180 --> 00:05:07.138
+and they're playing with problems
+
+93
+00:05:07.138 --> 00:05:09.748
+that are really, really neat.
+
+94
+00:05:09.748 --> 00:05:13.400
+How do you schedule the Uber cars?
+
+95
+00:05:13.400 --> 00:05:16.232
+You have enormous amounts of data.
+
+96
+00:05:16.232 --> 00:05:19.000
+(music)

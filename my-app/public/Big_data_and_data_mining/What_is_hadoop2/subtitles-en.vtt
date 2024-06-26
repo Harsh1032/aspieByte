@@ -1,0 +1,583 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:04.820
+Music
+
+2
+00:00:16.480 --> 00:00:20.840
+Traditionally in computation
+and processing data
+
+3
+00:00:20.844 --> 00:00:23.772
+we would bring the data to the computer.
+
+4
+00:00:23.772 --> 00:00:25.001
+You'd wanna program
+
+5
+00:00:25.001 --> 00:00:27.767
+and you'd bring the data into the program.
+
+6
+00:00:27.767 --> 00:00:29.755
+In a big data cluster
+
+7
+00:00:29.755 --> 00:00:32.256
+what Larry Page and Sergey Brin
+
+8
+00:00:32.256 --> 00:00:35.304
+came up with is very pretty simple
+
+9
+00:00:35.304 --> 00:00:37.766
+is they took the data and they sliced it
+
+10
+00:00:37.766 --> 00:00:40.260
+into pieces and they distributed each
+
+11
+00:00:40.260 --> 00:00:42.320
+and they replicated each piece
+
+12
+00:00:42.327 --> 00:00:43.740
+or triplicated each piece
+
+13
+00:00:43.747 --> 00:00:45.939
+and they would send it
+
+14
+00:00:45.939 --> 00:00:48.363
+the pieces of these files
+
+15
+00:00:48.363 --> 00:00:50.983
+to thousands of computers
+
+16
+00:00:50.983 --> 00:00:53.078
+first it was hundreds but
+then now it's thousands
+
+17
+00:00:53.078 --> 00:00:54.759
+now it's tens of thousands.
+
+18
+00:00:54.759 --> 00:00:57.747
+And then they would send the same program
+
+19
+00:00:57.747 --> 00:01:00.854
+to all these computers in the cluster.
+
+20
+00:01:00.854 --> 00:01:03.251
+And each computer would run the program
+
+21
+00:01:03.251 --> 00:01:05.993
+on its little piece of the file
+
+22
+00:01:05.993 --> 00:01:08.196
+and send the results back.
+
+23
+00:01:08.196 --> 00:01:09.921
+The results would then be sorted
+
+24
+00:01:09.921 --> 00:01:13.034
+and those results would
+then be redistributed
+
+25
+00:01:13.034 --> 00:01:15.799
+back to another process.
+
+26
+00:01:15.799 --> 00:01:19.251
+The first process is called
+a map or a mapper process
+
+27
+00:01:19.251 --> 00:01:21.946
+and the second one was
+called a reduce process.
+
+28
+00:01:21.946 --> 00:01:23.768
+Fairly simple concepts
+
+29
+00:01:23.768 --> 00:01:25.770
+but turned out that you could do
+
+30
+00:01:25.770 --> 00:01:28.316
+lots and lots of different kinds of
+
+31
+00:01:28.316 --> 00:01:31.515
+handle lots and lots of
+different kinds of problems
+
+32
+00:01:31.515 --> 00:01:34.452
+and very, very, very large data sets.
+
+33
+00:01:34.452 --> 00:01:38.043
+So the one thing that's nice
+about these big data clusters
+
+34
+00:01:38.043 --> 00:01:40.264
+is they scale linearly.
+
+35
+00:01:40.264 --> 00:01:42.041
+You had twice as many servers
+
+36
+00:01:42.041 --> 00:01:43.694
+and you get twice the performance
+
+37
+00:01:43.694 --> 00:01:45.905
+and you can handle twice
+the amount of data.
+
+38
+00:01:45.905 --> 00:01:47.867
+So this was just broke a bottleneck
+
+39
+00:01:47.867 --> 00:01:51.967
+for all the major social media companies.
+
+40
+00:01:51.967 --> 00:01:54.251
+Yahoo then got on board.
+
+41
+00:01:54.251 --> 00:01:57.388
+Yahoo hired someone named Doug Cutting
+
+42
+00:01:57.388 --> 00:01:59.701
+who had been working
+
+43
+00:01:59.701 --> 00:02:02.890
+on a clone or a copy
+
+44
+00:02:02.890 --> 00:02:06.060
+of the Google big data architecture
+
+45
+00:02:06.060 --> 00:02:07.750
+and now that's called Hadoop.
+
+46
+00:02:07.750 --> 00:02:10.502
+And if you google Hadoop you'll see that
+
+47
+00:02:10.502 --> 00:02:12.593
+it's now a very popular term
+
+48
+00:02:12.593 --> 00:02:14.385
+and there are many, many, many
+
+49
+00:02:14.385 --> 00:02:17.637
+if you look at the big data ecology
+
+50
+00:02:17.637 --> 00:02:21.183
+there are hundreds of thousands
+of companies out there
+
+51
+00:02:21.183 --> 00:02:23.402
+that have some kind of footprint
+
+52
+00:02:23.402 --> 00:02:25.235
+in the big data world.
+
+53
+00:02:25.240 --> 00:02:27.240
+(music)
+
+54
+00:02:28.740 --> 00:02:33.480
+Most of the components of data
+science have been around for
+
+55
+00:02:33.490 --> 00:02:35.860
+many, many, many, many decades.
+
+56
+00:02:35.875 --> 00:02:38.110
+But they're all coming together now
+
+57
+00:02:38.110 --> 00:02:41.940
+with some new nuances I guess.
+
+58
+00:02:41.940 --> 00:02:43.520
+At the bottom of data science
+
+59
+00:02:43.521 --> 00:02:46.469
+you see probability and statistics.
+
+60
+00:02:46.469 --> 00:02:50.992
+You see algebra, linear algebra
+
+61
+00:02:50.992 --> 00:02:52.879
+you see programming
+
+62
+00:02:52.879 --> 00:02:54.667
+and you see databases.
+
+63
+00:02:54.667 --> 00:02:57.243
+They've all been here.
+
+64
+00:02:57.243 --> 00:02:59.756
+But what's happened now is we
+
+65
+00:02:59.756 --> 00:03:02.873
+now have the computational capabilities
+
+66
+00:03:02.873 --> 00:03:06.011
+to apply some new techniques
+- machine learning.
+
+67
+00:03:06.011 --> 00:03:08.865
+Where now we can take really large data sets
+
+68
+00:03:08.865 --> 00:03:11.152
+and instead of taking a sample
+
+69
+00:03:11.152 --> 00:03:14.539
+and trying to test some hypothesis
+
+70
+00:03:14.539 --> 00:03:17.017
+we can take really, really large data sets
+
+71
+00:03:17.017 --> 00:03:19.236
+and look for patterns.
+
+72
+00:03:19.236 --> 00:03:23.785
+And so back off one level
+from hypothesis testing
+
+73
+00:03:23.785 --> 00:03:28.761
+to finding patterns that maybe
+will generate hypotheses.
+
+74
+00:03:28.761 --> 00:03:32.779
+Now this can bother some very
+traditional statisticians
+
+75
+00:03:32.779 --> 00:03:34.931
+and gets them really annoyed sometimes
+
+76
+00:03:34.931 --> 00:03:36.962
+that you know you're
+supposed to have a hypothesis
+
+77
+00:03:36.962 --> 00:03:39.752
+that is not that is
+independent of the data
+
+78
+00:03:39.752 --> 00:03:40.753
+and then you test it.
+
+79
+00:03:40.760 --> 00:03:45.940
+So once some of these machine
+learning techniques started
+
+80
+00:03:45.940 --> 00:03:47.860
+were really the only thing
+
+81
+00:03:47.876 --> 00:03:49.472
+the only way you can analyze
+
+82
+00:03:49.472 --> 00:03:51.368
+some of these really large
+
+83
+00:03:51.368 --> 00:03:54.600
+social media data sets.
+
+84
+00:03:54.600 --> 00:03:59.180
+So what we've seen is that the combination
+
+85
+00:03:59.180 --> 00:04:04.240
+of traditional [technique] areas computer science
+
+86
+00:04:04.240 --> 00:04:07.178
+probability, statistics, mathematics
+
+87
+00:04:07.180 --> 00:04:12.320
+all coming together in
+this thing that we call
+
+88
+00:04:12.320 --> 00:04:13.977
+Decision Sciences.
+
+89
+00:04:13.977 --> 00:04:15.215
+Our department at Stern
+
+90
+00:04:15.215 --> 00:04:16.740
+I'll give a little plug here
+
+91
+00:04:16.740 --> 00:04:20.068
+we happen to have been very well situated
+
+92
+00:04:20.068 --> 00:04:21.452
+among business schools
+
+93
+00:04:21.452 --> 00:04:23.535
+because we're one of
+the few business schools
+
+94
+00:04:23.535 --> 00:04:26.501
+that has a real statistics department
+
+95
+00:04:26.501 --> 00:04:28.706
+with real PhD level statisticians in it.
+
+96
+00:04:28.706 --> 00:04:31.237
+We have an operations
+management department
+
+97
+00:04:31.237 --> 00:04:33.874
+and an information systems department.
+
+98
+00:04:33.874 --> 00:04:36.841
+So we have a wide range
+of computer scientists
+
+99
+00:04:36.841 --> 00:04:40.604
+to statisticians, to
+operations researchers.
+
+100
+00:04:40.604 --> 00:04:43.631
+And so we were like perfectly positioned
+
+101
+00:04:43.631 --> 00:04:46.805
+as a couple of other business schools were
+
+102
+00:04:46.805 --> 00:04:49.689
+to jump on this bandwagon and say; okay
+
+103
+00:04:49.689 --> 00:04:53.020
+this is Decision Sciences.
+
+104
+00:04:53.020 --> 00:04:55.935
+And Foster Provost who's
+in my department was
+
+105
+00:04:55.935 --> 00:05:00.102
+the first director of the
+NYU Center for Data Science.
+
+106
+00:05:00.102 --> 00:05:02.102
+(music)
+
+107
+00:05:03.989 --> 00:05:06.331
+Four years ago maybe five years ago.
+
+108
+00:05:06.331 --> 00:05:08.572
+I mean, I feel this is one of those cases
+
+109
+00:05:08.572 --> 00:05:09.919
+where you can just to Google
+
+110
+00:05:09.920 --> 00:05:12.420
+and search for
+
+111
+00:05:12.420 --> 00:05:15.720
+data science and see how often it occurred
+
+112
+00:05:15.724 --> 00:05:17.652
+and you'll see almost nothing
+
+113
+00:05:17.652 --> 00:05:19.483
+and then just a spike.
+
+114
+00:05:19.483 --> 00:05:21.388
+The same thing you would see with big data
+
+115
+00:05:21.388 --> 00:05:23.980
+about seven or eight years ago.
+
+116
+00:05:23.980 --> 00:05:27.013
+So data science is a
+term I haven't heard of
+
+117
+00:05:27.013 --> 00:05:29.013
+probably five years ago.
+
+118
+00:05:29.013 --> 00:05:31.013
+(music)
+
+119
+00:05:34.226 --> 00:05:35.979
+The first question is what is it?
+
+120
+00:05:35.980 --> 00:05:37.760
+And I think
+
+121
+00:05:37.760 --> 00:05:41.637
+faculty and everybody is still trying to
+
+122
+00:05:41.637 --> 00:05:44.991
+get their hands around exactly what is
+
+123
+00:05:44.991 --> 00:05:47.981
+business analytics and
+what is data science.
+
+124
+00:05:47.981 --> 00:05:49.644
+We certainly know
+
+125
+00:05:49.644 --> 00:05:53.640
+the components of it.
+
+126
+00:05:53.640 --> 00:05:58.400
+But it's morphing and
+changing and growing.
+
+127
+00:05:58.400 --> 00:05:59.980
+I mean the last three years
+
+128
+00:05:59.982 --> 00:06:02.886
+deep learning has just
+been added into the mix.
+
+129
+00:06:02.886 --> 00:06:08.040
+Neural networks have been
+around for 20 or 30 years.
+
+130
+00:06:08.040 --> 00:06:11.792
+20 years ago, I would teach
+neural networks in a class
+
+131
+00:06:11.792 --> 00:06:16.235
+and you really couldn't
+do very much with them.
+
+132
+00:06:16.235 --> 00:06:18.931
+And now some researchers have come up with
+
+133
+00:06:18.931 --> 00:06:20.907
+multi-layer neural networks
+
+134
+00:06:20.907 --> 00:06:24.680
+in Toronto in particular
+the University of Toronto.
+
+135
+00:06:24.680 --> 00:06:29.037
+And that technology is
+now rapidly expanding
+
+136
+00:06:29.037 --> 00:06:33.204
+it's being used by Google, by
+Facebook, by lots of companies.
+
+137
+00:06:33.204 --> 00:06:36.204
+(music)

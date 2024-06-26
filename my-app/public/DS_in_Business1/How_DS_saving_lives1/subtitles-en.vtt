@@ -1,0 +1,269 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.660
+(Music)
+
+2
+00:00:10.660 --> 00:00:15.040
+Using Data Science techniques to understand
+and analyze the large data sets available
+
+3
+00:00:15.040 --> 00:00:18.029
+today has a huge impact on human lives.
+
+4
+00:00:18.029 --> 00:00:23.240
+It can provide targeted information to help
+healthcare professionals give the best treatment
+
+5
+00:00:23.240 --> 00:00:28.650
+to patients, or help predict natural disasters
+so that people can prepare early, and much
+
+6
+00:00:28.650 --> 00:00:29.869
+more besides.
+
+7
+00:00:29.869 --> 00:00:35.760
+In healthcare, data scientists use predictive
+analytics developed from data mining, data
+
+8
+00:00:35.760 --> 00:00:40.930
+modeling, statistics, and machine learning
+to find the best options for patients.
+
+9
+00:00:40.930 --> 00:00:45.960
+This type of predictive analytics examines
+all known factors for a disease, including
+
+10
+00:00:45.960 --> 00:00:50.270
+gene markers, associated conditions, and environmental
+factors.
+
+11
+00:00:50.270 --> 00:00:57.899
+It then recommends appropriate tests, suitable
+trials, and any suggested treatments.
+
+12
+00:00:57.899 --> 00:01:02.789
+Every individual physician has their own store
+of knowledge gained from their studies, interests,
+
+13
+00:01:02.789 --> 00:01:04.930
+and experiences.
+
+14
+00:01:04.930 --> 00:01:10.070
+Data science systems that use predictive analytics
+ensure that all physicians can also access
+
+15
+00:01:10.070 --> 00:01:15.310
+the latest information about the disease,
+tests, and treatment plans, tailored to their
+
+16
+00:01:15.310 --> 00:01:17.050
+specific patient.
+
+17
+00:01:17.050 --> 00:01:21.140
+With this type of system, every physician
+has access to the same knowledge, and the
+
+18
+00:01:21.140 --> 00:01:26.360
+best options can be consistently offered,
+improving patient outcomes.
+
+19
+00:01:26.360 --> 00:01:32.240
+For example, a study by the Boston Consulting
+Group and AdvaMedDx, an industry association
+
+20
+00:01:32.240 --> 00:01:37.610
+of medical diagnostics companies, examined
+the barriers to the adoption of potentially
+
+21
+00:01:37.610 --> 00:01:44.530
+lifesaving diagnostic tests for patients with
+a specific cancer and a particular gene marker.
+
+22
+00:01:44.530 --> 00:01:49.739
+The study discovered that the biggest factor
+in the patient being offered a specific test
+
+23
+00:01:49.739 --> 00:01:54.310
+was the patient’s oncologist, who may or
+may not have known about the test and its
+
+24
+00:01:54.310 --> 00:01:56.860
+relationship to the gene marker.
+
+25
+00:01:56.860 --> 00:02:01.720
+By providing extra information through data
+science tools, physicians can be made aware
+
+26
+00:02:01.720 --> 00:02:06.380
+of the most helpful tests and treatments for
+a specific patient.
+
+27
+00:02:06.380 --> 00:02:13.060
+There are many opportunities to explore other
+ways to mine data, such as from electronic
+
+28
+00:02:13.060 --> 00:02:17.300
+medical records for different types of medical
+research.
+
+29
+00:02:17.300 --> 00:02:22.060
+Schools such as the NorthShore University
+HealthSystem in suburban Chicago, a leader
+
+30
+00:02:22.060 --> 00:02:27.750
+in the implementation of Electronic Medical
+Records (EMR) systems, now offer guidance
+
+31
+00:02:27.750 --> 00:02:29.280
+on data mining.
+
+32
+00:02:29.280 --> 00:02:35.250
+It is the first healthcare provider in America
+to be awarded the highest level of EMR deployment
+
+33
+00:02:35.250 --> 00:02:38.460
+for both inpatient and outpatient care.
+
+34
+00:02:38.460 --> 00:02:45.710
+This remarkable effort has generated much-anonymized
+data available for innovative analytics research.
+
+35
+00:02:45.710 --> 00:02:51.070
+Developing more sophisticated big data analytics
+capabilities helps healthcare organizations
+
+36
+00:02:51.070 --> 00:02:58.400
+move from basic descriptive analytics towards
+predictive insights, thanks to data science.
+
+37
+00:02:58.400 --> 00:03:03.420
+In the field of Disaster Preparedness, the
+ability to save lives using Data Science tools
+
+38
+00:03:03.420 --> 00:03:06.390
+has been under development for many years.
+
+39
+00:03:06.390 --> 00:03:11.930
+The use of predictive analytics tools is improving
+and providing new data analysis in a multitude
+
+40
+00:03:11.930 --> 00:03:17.030
+of ways, alerting populations to danger faster
+than ever before.
+
+41
+00:03:17.030 --> 00:03:22.790
+Large, high-quality data sets can be used
+to predict the occurrence of numerous types
+
+42
+00:03:22.790 --> 00:03:28.840
+of natural disasters, which can be the difference
+between life and death for thousands of people.
+
+43
+00:03:28.840 --> 00:03:35.460
+Earthquakes, hurricanes & tornados, floods,
+and volcanic eruptions can be predicted with
+
+44
+00:03:35.460 --> 00:03:38.770
+the help of data science.
+
+45
+00:03:38.770 --> 00:03:44.060
+Recent research at the University of Warwick
+in the UK used social media content such as
+
+46
+00:03:44.060 --> 00:03:49.980
+photos and keywords to track the development
+of floods, hurricanes and other weather events.
+
+47
+00:03:49.980 --> 00:03:55.410
+When added to the information recorded by
+scientists and weather stations, this type
+
+48
+00:03:55.410 --> 00:04:00.600
+of data can be used to improve the predictions
+for localised weather events.
+
+49
+00:04:00.600 --> 00:04:05.490
+Because the real benefit of this knowledge
+is so important, schools are starting to include
+
+50
+00:04:05.490 --> 00:04:09.020
+this type of data science education in their
+curriculum.
+
+51
+00:04:09.020 --> 00:04:14.550
+For instance, the University of Chicago Graham
+School offers a Master of Science course in
+
+52
+00:04:14.550 --> 00:04:17.630
+Threat and Response Management.
+
+53
+00:04:17.630 --> 00:04:22.410
+Data science tools enable organizations to
+analyse vast quantities of data from widely
+
+54
+00:04:22.410 --> 00:04:27.260
+different sources, and present that information
+in a way that allows data scientists to gain
+
+55
+00:04:27.260 --> 00:04:31.100
+new knowledge, in some cases, saving hundreds
+of lives.
+
+56
+00:04:32.600 --> 00:04:37.000
+(Music)

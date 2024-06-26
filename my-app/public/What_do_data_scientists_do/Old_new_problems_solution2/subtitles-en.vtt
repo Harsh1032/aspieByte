@@ -1,0 +1,247 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:10.980
+[Music]
+
+2
+00:00:10.980 --> 00:00:15.690
+Organizations can leverage the almost unlimited
+amount of data now available to them in a
+
+3
+00:00:15.690 --> 00:00:17.360
+growing number of ways.
+
+4
+00:00:17.360 --> 00:00:22.840
+However, all organizations ultimately use
+data science for the same reason—to discover
+
+5
+00:00:22.840 --> 00:00:25.520
+optimum solutions to existing problems.
+
+6
+00:00:25.520 --> 00:00:30.509
+Let’s take a look at three examples of data
+science providing innovative solutions for
+
+7
+00:00:30.509 --> 00:00:32.270
+old problems.
+
+8
+00:00:32.270 --> 00:00:37.880
+In transport, Uber collects real-time user
+data to discover how many drivers are available,
+
+9
+00:00:37.880 --> 00:00:43.010
+if more are needed, and if they should allow
+a surge charge to attract more drivers.
+
+10
+00:00:43.010 --> 00:00:48.090
+Uber uses data to put the right number of
+drivers in the right place, at the right time,
+
+11
+00:00:48.090 --> 00:00:50.780
+for a cost the rider is willing to pay.
+
+12
+00:00:50.780 --> 00:00:55.460
+In a different transport related data science
+effort, the Toronto Transportation Commission
+
+13
+00:00:55.460 --> 00:01:01.469
+has made great strides in solving an old problem
+with traffic flows, restructuring those flows
+
+14
+00:01:01.469 --> 00:01:03.500
+in and around the city.
+
+15
+00:01:03.500 --> 00:01:06.580
+Using data science tools and analysis, they
+have:
+
+16
+00:01:06.580 --> 00:01:12.289
+Gathered data to better understand streetcar
+operations, and identify areas for interventions
+
+17
+00:01:12.289 --> 00:01:17.400
+Analyzed customer complaints data,
+Used probe data to better understand traffic
+
+18
+00:01:17.400 --> 00:01:21.700
+performance on main routes and
+created a team to better capitalize on big
+
+19
+00:01:21.700 --> 00:01:25.399
+data for both planning, operations and evaluation
+
+20
+00:01:25.399 --> 00:01:31.640
+By focusing on peak hour clearances and identifying
+the most congested routes, monthly hours lost
+
+21
+00:01:31.640 --> 00:01:41.560
+for commuters due to traffic congestion dropped
+from 4.75 hrs. in 2010 to 3 hrs. in mid-2014.
+
+22
+00:01:41.560 --> 00:01:47.030
+In facing issues in our environment, data
+science can also play a proactive role.
+
+23
+00:01:47.030 --> 00:01:52.420
+Freshwater lakes supply a variety of human
+and ecological needs, such as providing drinking
+
+24
+00:01:52.420 --> 00:01:54.450
+water and producing food.
+
+25
+00:01:54.450 --> 00:01:59.520
+But lakes across the world are threatened
+by increasing incidences of harmful cyanobacterial
+
+26
+00:01:59.520 --> 00:02:01.240
+blooms.
+
+27
+00:02:01.240 --> 00:02:06.090
+There are many projects and studies to solve
+this long-existing dilemma.
+
+28
+00:02:06.090 --> 00:02:11.650
+In the US, a team of scientists from research
+centers stretching from Maine to South Carolina
+
+29
+00:02:11.650 --> 00:02:17.129
+is developing and deploying high-tech tools
+to explore cyanobacteria in lakes across the
+
+30
+00:02:17.129 --> 00:02:18.560
+east coast.
+
+31
+00:02:18.560 --> 00:02:23.790
+The team is using robotic boats, buoys, and
+camera-equipped drones to measure physical,
+
+32
+00:02:23.790 --> 00:02:29.549
+chemical, and biological data in lakes where
+cyanobacteria are detected, collecting large
+
+33
+00:02:29.549 --> 00:02:34.939
+volumes of data related to the lakes and the
+development of the harmful blooms.
+
+34
+00:02:34.939 --> 00:02:40.250
+The project is also building new algorithmic
+models to assess the findings.
+
+35
+00:02:40.250 --> 00:02:45.620
+The information collected will lead to better
+predictions of when and where cyanobacterial
+
+36
+00:02:45.620 --> 00:02:52.010
+blooms take place, enabling proactive approaches
+to protect public health in recreational lakes
+
+37
+00:02:52.010 --> 00:02:55.019
+and in those that supply drinking water.
+
+38
+00:02:55.019 --> 00:03:00.739
+Such interdisciplinary training prepares the
+next generation of scientists to address societal
+
+39
+00:03:00.739 --> 00:03:05.959
+issues with the proper modernized data science
+tools.
+
+40
+00:03:05.959 --> 00:03:10.969
+It takes gathering a lot of data, cleaning
+and preparing it, and then analyzing it to
+
+41
+00:03:10.969 --> 00:03:16.629
+gain the insight needed to develop better
+solutions for today's enterprises.
+
+42
+00:03:16.629 --> 00:03:19.609
+How do you get a better solution that is efficient?
+
+43
+00:03:19.609 --> 00:03:22.269
+You must:
+Identify the problem and establish a clear
+
+44
+00:03:22.269 --> 00:03:24.030
+understanding of it.
+
+45
+00:03:24.030 --> 00:03:26.599
+Gather the data for analysis.
+
+46
+00:03:26.599 --> 00:03:29.069
+Identify the right tools to use,
+
+47
+00:03:29.069 --> 00:03:31.049
+and develop a data strategy.
+
+48
+00:03:31.049 --> 00:03:35.569
+Case studies are also helpful in customizing
+a potential solution.
+
+49
+00:03:35.569 --> 00:03:40.930
+Once these conditions exist and available
+data is extracted, you can develop a machine
+
+50
+00:03:40.930 --> 00:03:42.019
+learning model.
+
+51
+00:03:42.019 --> 00:03:48.099
+It will take time for an organization to refine
+best practices for data strategy using data
+
+52
+00:03:48.099 --> 00:03:50.670
+science, but the benefits are worth it.
+
+53
+00:03:50.670 --> 00:03:56.120
+[Music]

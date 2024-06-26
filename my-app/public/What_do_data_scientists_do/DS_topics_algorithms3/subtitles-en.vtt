@@ -1,0 +1,288 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:08.170
+[Music]
+
+2
+00:00:08.170 --> 00:00:09.980
+I really enjoy regression.
+
+3
+00:00:09.980 --> 00:00:15.380
+I'd say regression was maybe one of the
+first concepts that I, that really helped
+
+4
+00:00:15.380 --> 00:00:18.380
+me understand data so I enjoy
+regression.
+
+5
+00:00:18.380 --> 00:00:20.880
+I really like data visualization.
+
+6
+00:00:20.880 --> 00:00:26.920
+I think it's a key element
+for people to get across their message to
+
+7
+00:00:26.920 --> 00:00:30.990
+people that don't understand that
+well what data science is.
+
+8
+00:00:30.990 --> 00:00:32.510
+Artificial neural networks.
+
+9
+00:00:32.510 --> 00:00:40.860
+I'm really passionate about neural networks
+because we have a lot to learn with nature
+
+10
+00:00:40.860 --> 00:00:48.190
+so when we are trying to mimic our, our brain
+I think that we can do some applications with
+
+11
+00:00:48.190 --> 00:00:53.330
+this behavior with this biological behavior
+in algorithms.
+
+12
+00:00:53.330 --> 00:00:56.580
+Data visualization with R. I love to do this.
+
+13
+00:00:56.580 --> 00:00:58.559
+Nearest neighbor.
+
+14
+00:00:58.559 --> 00:01:06.280
+It's the simplest but it just gets the best
+results so many more times than some overblown,
+
+15
+00:01:06.280 --> 00:01:11.620
+overworked algorithm that's just as likely
+to overfit as it is to make a good fit.
+
+16
+00:01:11.620 --> 00:01:15.939
+So structured data is more like tabular data
+things that you’re familiar with in Microsoft
+
+17
+00:01:15.939 --> 00:01:17.020
+Excel format.
+
+18
+00:01:17.020 --> 00:01:21.280
+You've got rows and columns and that's called
+structured data.
+
+19
+00:01:21.280 --> 00:01:25.710
+Unstructured data is basically data that is
+coming from mostly from web where it's not
+
+20
+00:01:25.710 --> 00:01:26.840
+tabular.
+
+21
+00:01:26.840 --> 00:01:29.509
+It is not, it's not in rows and columns.
+
+22
+00:01:29.509 --> 00:01:30.509
+It's text.
+
+23
+00:01:30.509 --> 00:01:37.380
+It's sometimes it's video and audio, so you
+would have to deploy more sophisticated algorithms
+
+24
+00:01:37.380 --> 00:01:38.630
+to extract data.
+
+25
+00:01:38.630 --> 00:01:43.899
+And in fact, a lot of times we take unstructured
+data and spend a great deal of time and effort
+
+26
+00:01:43.899 --> 00:01:47.509
+to get some structure out of it and then analyze
+it.
+
+27
+00:01:47.509 --> 00:01:52.710
+So if you have something which fits nicely
+into tables and columns and rows, go ahead.
+
+28
+00:01:52.710 --> 00:01:53.789
+That's your structured data.
+
+29
+00:01:53.789 --> 00:01:58.299
+But if you see if it's a weblog or if you're
+trying to get information out of webpages
+
+30
+00:01:58.299 --> 00:02:02.399
+and you've got a gazillion web pages, that's
+unstructured data that would require a little
+
+31
+00:02:02.399 --> 00:02:04.889
+bit more effort to get information out of
+it.
+
+32
+00:02:04.889 --> 00:02:11.039
+There are thousands of books written on regression
+and millions of lectures delivered on regression.
+
+33
+00:02:11.039 --> 00:02:14.510
+And I always feel that they don’t do a good
+job of explaining regression because they
+
+34
+00:02:14.510 --> 00:02:19.069
+get into data and models and statistical distributions.
+
+35
+00:02:19.069 --> 00:02:20.180
+Let's forget about it.
+
+36
+00:02:20.180 --> 00:02:24.180
+Let me explain regression in the simplest
+possible terms.
+
+37
+00:02:24.180 --> 00:02:28.400
+If you have ever taken a cab ride, a taxi
+ride, you understand regression.
+
+38
+00:02:28.400 --> 00:02:29.910
+Here is how it works.
+
+39
+00:02:29.910 --> 00:02:34.459
+The moment you sit in a cab ride, in a cab,
+you see that there's a fixed amount there.
+
+40
+00:02:34.459 --> 00:02:35.940
+It says $2.50.
+
+41
+00:02:35.940 --> 00:02:39.709
+You, rather the cab, moves or you get off.
+
+42
+00:02:39.709 --> 00:02:43.319
+This is what you owe to the driver the moment
+you step into a cab.
+
+43
+00:02:43.319 --> 00:02:44.319
+That's a constant.
+
+44
+00:02:44.319 --> 00:02:48.090
+You have to pay that amount if you have stepped
+into a cab.
+
+45
+00:02:48.090 --> 00:02:55.879
+Then as it starts moving for every meter or
+hundred meters the fare increases by certain
+
+46
+00:02:55.879 --> 00:02:56.879
+amount.
+
+47
+00:02:56.879 --> 00:03:00.470
+So there's a... there's a fraction, there's
+a relationship between distance and the amount
+
+48
+00:03:00.470 --> 00:03:03.620
+you would pay above and beyond that constant.
+
+49
+00:03:03.620 --> 00:03:08.000
+And if you're not moving and you're stuck
+in traffic, then every additional minute you
+
+50
+00:03:08.000 --> 00:03:09.500
+have to pay more.
+
+51
+00:03:09.500 --> 00:03:12.980
+So as the minutes increase, your fare increases.
+
+52
+00:03:12.980 --> 00:03:16.180
+As the distance increases, your fare increases.
+
+53
+00:03:16.180 --> 00:03:21.120
+And while all this is happening you've already
+paid a base fare which is the constant.
+
+54
+00:03:21.120 --> 00:03:23.040
+This is what regression is.
+
+55
+00:03:23.040 --> 00:03:28.480
+Regression tells you what the base fare is
+and what is the relationship between time
+
+56
+00:03:28.480 --> 00:03:32.400
+and the fare you have paid, and the distance
+you have traveled and the fare you've paid.
+
+57
+00:03:32.400 --> 00:03:37.370
+Because in the absence of knowing those relationships,
+and just knowing how much people traveled
+
+58
+00:03:37.370 --> 00:03:41.890
+for and how much they paid, regression allows
+you to compute that constant that you didn't
+
+59
+00:03:41.890 --> 00:03:42.890
+know.
+
+60
+00:03:42.890 --> 00:03:47.689
+That it was $2.50, and it would compute the relationship
+between the fare and and the distance and
+
+61
+00:03:47.689 --> 00:03:49.232
+the fare and the time.
+
+62
+00:03:49.232 --> 00:03:49.249
+That is regression.
+
+63
+00:03:49.249 --> 00:03:53.100
+[Music]

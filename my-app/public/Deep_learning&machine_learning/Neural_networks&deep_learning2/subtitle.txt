@@ -1,0 +1,73 @@
+[MUSIC] It's, I guess,
+Computer Sciences attempt to mimic real, the neurons,
+in how our brain actually functions. So 20-23 years ago, a neural network would
+have some inputs that would come in. They would be fed into different
+processing nodes that would then do some transformation on them and
+aggregate them or something, and
+then maybe go to another level of nodes. And finally there would some output would
+come out, and I can remember training a neural network to recognize digits,
+handwritten digits and stuff. So a neural network is
+trying to use computer, a computer program that
+will mimic how neurons, how our brains use neurons to process
+thing, neurons and synapses and building these complex
+networks that can be trained. So this neural network starts
+out with some inputs and some outputs, and you keep feeding
+these inputs in to try to see what kinds of transformations
+will get to these outputs. And you keep doing this over,
+and over, and over again in a way that this
+network should converge. So these input, the transformations
+will eventually get these outputs. Problem with neural networks was that even
+though the theory was there and they did work on small problems like recognizing
+handwritten digits and things like that. They were computationally
+very intensive and so they went out of favor and I stopped
+teaching them probably 15 years ago. And then all of a sudden we started
+hearing about deep learning, heard the term deep learning. This is another term,
+when did you first hear it? Four years ago, five years ago? And so, I finally said,
+what the hell is deep learning? It's really doing all this great stuff,
+what is it? And I Google, I was like,
+this is neural networks on steroids. What they did was they just had
+multiple layers of neural networks, and they use lots, and lots, and
+lots of computing power to solve them. Just before this interview, I had
+a young faculty member in the marketing department whose research is
+partially based on deep learning. And so she needs a computer that has
+a Graphics Processing Unit in it, because it takes enormous amount of
+matrix and linear algebra calculations to actually do all of the mathematics
+that you need in neural networks. But they've been they
+are now quite capable. We now have neural networks and
+deep learning that can recognize speech, can recognize people, you got there,
+getting your face recognized. I guarantee that NSA has a lot of
+work going on in neural networks. The university right now,
+as director of research computing, I have some small set of machines
+down at our south data center, and I went in there last week and
+there were just piles, and piles, and piles of cardboard boxes all from
+Dell with a GPU on the side. Well, the GPU is
+a Graphics Processing Unit. There's only one application
+in this University that needs two hundred servers each with
+Graphics Processing Units in it, and each Graphics Processing Unit, it has like
+the equivalent of 600 cores of processing. So this is tens of thousands of
+processing cores that is for deep learning, I guarantee. Some of the first ones
+are speech recognition, who teaches the deep
+learning class at NYU, and is also the head data scientist
+at Facebook comes into class with a notebook, and
+it's a pretty thick notebook. It looks a little odd,
+because it's like this and it's that thick because it has a couple
+of Graphics Processing Units in it, and then he will ask the class to
+start to speak to this thing. And it will train while he's in class, he will train a neural
+network to recognize speech. So recognizing speech, recognizing people, images, classifying images, almost all of the the traditional tasks that neural nets
+used to work on in little tiny things. Now, they can do really,
+really, really large things. It will learn on its own,
+the difference between a cat and a dog, and different kinds of objects,
+it doesn't have to be taught. It doesn't,
+it just learns that's why they call it deep learning, and if you hear, he plays this, if you hear how it
+recognizes speech and generate speech. It sounds like a baby
+who learning to talk. You can just, you're like really do about all of a sudden this stupid machine is
+talking to you and learned how to talk. That's cool. I need to learn some linear algebra, a lot of this a lot of this stuff is
+based on matrix and linear algebra. So you need to know how to do use
+linear algebra do transformations. Now, on the other hand, there's now lots
+of packages out there that will do deep learning and they'll do all
+the linear algebra for you, but you should have some idea of
+what is happening underneath. Deep learning, particularly needs really
+high-powered computational power. So it's not something that you're going to
+go out and do on your notebook for it. You could play with it. But if you really want to do it,
+seriously, you have to have some special
+computational resources. [MUSIC]

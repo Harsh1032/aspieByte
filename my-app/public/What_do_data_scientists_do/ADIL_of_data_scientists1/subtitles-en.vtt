@@ -1,0 +1,293 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:07.170
+[Music]
+
+2
+00:00:07.170 --> 00:00:12.880
+I've built a recommendation engine before, as part of a large organization and worked
+
+3
+00:00:12.880 --> 00:00:19.150
+through all types of engineers and accounted for different parts of the problem.
+
+4
+00:00:19.150 --> 00:00:22.810
+It's one of the ones I'm most happy with because ultimately,
+
+5
+00:00:22.810 --> 00:00:27.580
+I came up with a very simple solution that was easy to understand from all levels,
+
+6
+00:00:27.580 --> 00:00:31.225
+from the executives to the engineers and developers.
+
+7
+00:00:31.225 --> 00:00:35.260
+Ultimately, it was just as efficient as something really complex,
+
+8
+00:00:35.260 --> 00:00:36.820
+and they could have spent a lot more time on.
+
+9
+00:00:36.820 --> 00:00:38.313
+Back in the university,
+
+10
+00:00:38.313 --> 00:00:42.250
+we have a problem that we wanted to predict algae blooms.
+
+11
+00:00:42.250 --> 00:00:46.540
+This algae blooms could cause a rise in
+
+12
+00:00:46.540 --> 00:00:51.655
+toxicity of the water and it could cause problems through the water treatment company.
+
+13
+00:00:51.655 --> 00:00:56.875
+We couldn't like predict with our chemical engineering background.
+
+14
+00:00:56.875 --> 00:01:02.463
+So we use artificial neural networks to predict when these blooms will reoccur.
+
+15
+00:01:02.463 --> 00:01:06.640
+So the water treatment companies could better handle this problem.
+
+16
+00:01:06.640 --> 00:01:10.360
+In Toronto, the public transit is operated by Toronto Transit Commission.
+
+17
+00:01:10.360 --> 00:01:11.680
+We call them TTC. It's one of
+
+18
+00:01:11.680 --> 00:01:15.805
+the largest transit authorities in the region, in North America.
+
+19
+00:01:15.805 --> 00:01:18.385
+And one day they contacted me and said, "We have a problem."
+
+20
+00:01:18.385 --> 00:01:19.830
+And I said, "Okay, what's the problem?"
+
+21
+00:01:19.830 --> 00:01:21.835
+They said, "Well, we have complaints data,
+
+22
+00:01:21.835 --> 00:01:24.755
+and we would like to analyze it, and we need your help."
+
+23
+00:01:24.755 --> 00:01:27.265
+I said, "Fine I would be very happy to help."
+
+24
+00:01:27.265 --> 00:01:29.710
+So I said, "How many complaints do you have?"
+
+25
+00:01:29.710 --> 00:01:30.790
+They said, "A few." I said,
+
+26
+00:01:30.790 --> 00:01:32.655
+"How many?" Maybe half a million.
+
+27
+00:01:32.655 --> 00:01:35.075
+I said, "Well, let's start working with it."
+
+28
+00:01:35.075 --> 00:01:37.720
+So I got the data and I started analyzing it.
+
+29
+00:01:37.720 --> 00:01:40.225
+So, basically, they have done a great job of keeping
+
+30
+00:01:40.225 --> 00:01:44.020
+some data in tabular format that was unstructured data.
+
+31
+00:01:44.020 --> 00:01:47.485
+And in that case, tabular data was when the complaint arrived,
+
+32
+00:01:47.485 --> 00:01:50.090
+who received it, what was the type of the complaint,
+
+33
+00:01:50.090 --> 00:01:52.180
+was it resolved, whose fault was it.
+
+34
+00:01:52.180 --> 00:01:55.530
+And the unstructured part of it was the exchange of e-mails and faxes.
+
+35
+00:01:55.530 --> 00:01:57.180
+So, imagine looking at
+
+36
+00:01:57.180 --> 00:02:01.700
+how half a million exchanges of e-mails and trying to get some answers from it.
+
+37
+00:02:01.700 --> 00:02:03.175
+So I started working with it.
+
+38
+00:02:03.175 --> 00:02:07.066
+The first thing I wanted to know is why would people complain
+
+39
+00:02:07.066 --> 00:02:11.455
+and is there a pattern or is there some days when there are more complaints than others?
+
+40
+00:02:11.455 --> 00:02:14.890
+And I had looked at the data and I analyzed it in all different formats,
+
+41
+00:02:14.890 --> 00:02:18.340
+and I couldn't find [what] the impetus
+
+42
+00:02:18.340 --> 00:02:22.720
+for complaints being higher on a certain day and lower on others.
+
+43
+00:02:22.720 --> 00:02:25.690
+And it continued for maybe a month or so.
+
+44
+00:02:25.690 --> 00:02:29.800
+And then, one day I was getting off the bus in Toronto,
+
+45
+00:02:29.800 --> 00:02:31.595
+and I was still thinking about it.
+
+46
+00:02:31.595 --> 00:02:34.900
+And I stepped out without looking on the ground,
+
+47
+00:02:34.900 --> 00:02:37.405
+and I stepped into a puddle, puddle of water.
+
+48
+00:02:37.405 --> 00:02:40.090
+And now, I was sort of ankle deep into water,
+
+49
+00:02:40.090 --> 00:02:41.950
+and it was just one foot wet and the other dry.
+
+50
+00:02:41.950 --> 00:02:43.330
+And I was extremely annoyed.
+
+51
+00:02:43.330 --> 00:02:46.030
+And I was walking back and then it hit me,
+
+52
+00:02:46.030 --> 00:02:48.325
+and I said, "Well, wait a second.
+
+53
+00:02:48.325 --> 00:02:50.253
+Today it rained unexpectedly,
+
+54
+00:02:50.253 --> 00:02:51.430
+and I wasn't prepared for it.
+
+55
+00:02:51.430 --> 00:02:53.775
+That's why I'm wet, and I wasn't looking for it."
+
+56
+00:02:53.775 --> 00:02:56.635
+What if there was a relationship between
+
+57
+00:02:56.635 --> 00:03:00.755
+extreme weather and the type of complaints TTC receives?
+
+58
+00:03:00.755 --> 00:03:03.160
+So I went to the environment Canada's website,
+
+59
+00:03:03.160 --> 00:03:06.858
+and I got data on rain and precipitation,
+
+60
+00:03:06.858 --> 00:03:09.740
+wind and the light.
+
+61
+00:03:09.740 --> 00:03:12.600
+And there, I found something very interesting.
+
+62
+00:03:12.600 --> 00:03:16.570
+The 10 most excessive days for complaints.
+
+63
+00:03:16.570 --> 00:03:21.370
+The 10 days where people complain the most were the days when the weather was bad.
+
+64
+00:03:21.370 --> 00:03:22.840
+It was unexpected rain,
+
+65
+00:03:22.840 --> 00:03:24.575
+an extreme drop in temperature,
+
+66
+00:03:24.575 --> 00:03:27.400
+too much snow, very windy day.
+
+67
+00:03:27.400 --> 00:03:31.210
+So I went back to the TTC's executives and I said,
+
+68
+00:03:31.210 --> 00:03:32.730
+"I've got good news and bad news."
+
+69
+00:03:32.730 --> 00:03:34.015
+And the good news is,
+
+70
+00:03:34.015 --> 00:03:37.120
+I know why people would complain excessively on certain days.
+
+71
+00:03:37.120 --> 00:03:39.130
+I know the reason for it. The bad news is,
+
+72
+00:03:39.130 --> 00:03:41.800
+there's nothing you can do about it.
+
+73
+00:03:41.800 --> 00:03:45.000
+[Music]

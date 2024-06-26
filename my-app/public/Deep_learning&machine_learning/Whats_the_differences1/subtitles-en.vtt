@@ -1,0 +1,423 @@
+WEBVTT
+
+1
+00:00:09.950 --> 00:00:12.000
+In data science, there are
+
+2
+00:00:12.000 --> 00:00:14.070
+many terms that are
+used interchangeably,
+
+3
+00:00:14.070 --> 00:00:16.305
+so let's explore the
+most common ones.
+
+4
+00:00:16.305 --> 00:00:18.270
+The term big data refers to
+
+5
+00:00:18.270 --> 00:00:21.105
+data sets that are so
+massive, so quickly built,
+
+6
+00:00:21.105 --> 00:00:22.860
+and so varied that they defy
+
+7
+00:00:22.860 --> 00:00:25.140
+traditional analysis methods such
+
+8
+00:00:25.140 --> 00:00:28.210
+as you might perform with
+a relational database.
+
+9
+00:00:28.400 --> 00:00:32.220
+The concurrent development
+of enormous compute power in
+
+10
+00:00:32.220 --> 00:00:35.160
+distributed networks and
+new tools and techniques
+
+11
+00:00:35.160 --> 00:00:38.090
+for data analysis means
+that organizations
+
+12
+00:00:38.090 --> 00:00:41.090
+now have the power to analyze
+these vast data sets.
+
+13
+00:00:41.090 --> 00:00:42.380
+A new knowledge and
+
+14
+00:00:42.380 --> 00:00:44.720
+insights are becoming
+available to everyone.
+
+15
+00:00:44.720 --> 00:00:48.380
+Big data is often described
+in terms of five V's;
+
+16
+00:00:48.380 --> 00:00:52.900
+velocity, volume, variety,
+veracity, and value.
+
+17
+00:00:52.900 --> 00:00:55.505
+Data mining is the process of
+
+18
+00:00:55.505 --> 00:00:58.070
+automatically searching
+and analyzing data,
+
+19
+00:00:58.070 --> 00:01:00.830
+discovering previously
+unrevealed patterns.
+
+20
+00:01:00.830 --> 00:01:03.440
+It involves preprocessing
+the data to
+
+21
+00:01:03.440 --> 00:01:04.970
+prepare it and transforming
+
+22
+00:01:04.970 --> 00:01:06.815
+it into an appropriate format.
+
+23
+00:01:06.815 --> 00:01:08.165
+Once this is done,
+
+24
+00:01:08.165 --> 00:01:10.100
+insights and patterns
+are mined and
+
+25
+00:01:10.100 --> 00:01:12.710
+extracted using various
+tools and techniques
+
+26
+00:01:12.710 --> 00:01:15.290
+ranging from simple data
+visualization tools
+
+27
+00:01:15.290 --> 00:01:18.275
+to machine learning and
+statistical models.
+
+28
+00:01:18.275 --> 00:01:21.410
+Machine learning is
+a subset of AI that
+
+29
+00:01:21.410 --> 00:01:24.020
+uses computer algorithms
+to analyze data
+
+30
+00:01:24.020 --> 00:01:26.480
+and make intelligent
+decisions based on what it is
+
+31
+00:01:26.480 --> 00:01:29.570
+learned without being
+explicitly programmed.
+
+32
+00:01:29.570 --> 00:01:32.030
+Machine learning algorithms
+are trained with
+
+33
+00:01:32.030 --> 00:01:35.015
+large sets of data and
+they learn from examples.
+
+34
+00:01:35.015 --> 00:01:37.990
+They do not follow
+rules-based algorithms.
+
+35
+00:01:37.990 --> 00:01:39.770
+Machine learning is what
+
+36
+00:01:39.770 --> 00:01:42.020
+enables machines to
+solve problems on
+
+37
+00:01:42.020 --> 00:01:44.149
+their own and make
+accurate predictions
+
+38
+00:01:44.149 --> 00:01:46.255
+using the provided data.
+
+39
+00:01:46.255 --> 00:01:48.950
+Deep learning is a
+specialized subset
+
+40
+00:01:48.950 --> 00:01:50.120
+of machine learning that
+
+41
+00:01:50.120 --> 00:01:52.084
+uses layered neural networks
+
+42
+00:01:52.084 --> 00:01:54.425
+to simulate human
+decision-making.
+
+43
+00:01:54.425 --> 00:01:56.750
+Deep learning algorithms
+can label and
+
+44
+00:01:56.750 --> 00:01:59.930
+categorize information
+and identify patterns.
+
+45
+00:01:59.930 --> 00:02:02.480
+It is what enables AI systems to
+
+46
+00:02:02.480 --> 00:02:05.060
+continuously learn on
+the job and improve
+
+47
+00:02:05.060 --> 00:02:06.590
+the quality and accuracy of
+
+48
+00:02:06.590 --> 00:02:10.489
+results by determining whether
+decisions were correct.
+
+49
+00:02:10.489 --> 00:02:13.130
+Artificial neural networks, often
+
+50
+00:02:13.130 --> 00:02:15.529
+referred to simply
+as neural networks,
+
+51
+00:02:15.529 --> 00:02:18.515
+take inspiration from
+biological neural networks,
+
+52
+00:02:18.515 --> 00:02:20.780
+although they work quite
+a bit differently.
+
+53
+00:02:20.780 --> 00:02:22.760
+A neural network in AI is
+
+54
+00:02:22.760 --> 00:02:25.190
+a collection of small
+computing units called
+
+55
+00:02:25.190 --> 00:02:27.470
+neurons that take incoming data
+
+56
+00:02:27.470 --> 00:02:29.810
+and learn to make
+decisions over time.
+
+57
+00:02:29.810 --> 00:02:33.290
+Neural networks are often
+layer-deep and are the reason
+
+58
+00:02:33.290 --> 00:02:35.150
+deep learning
+algorithms become more
+
+59
+00:02:35.150 --> 00:02:37.865
+efficient as the data
+sets increase in volume,
+
+60
+00:02:37.865 --> 00:02:40.265
+as opposed to other machine
+learning algorithms
+
+61
+00:02:40.265 --> 00:02:43.160
+that may plateau
+as data increases.
+
+62
+00:02:43.160 --> 00:02:45.650
+Now that you have a
+broad understanding of
+
+63
+00:02:45.650 --> 00:02:48.740
+the differences between
+some key AI concepts,
+
+64
+00:02:48.740 --> 00:02:51.680
+there is one more differentiation
+that is important to
+
+65
+00:02:51.680 --> 00:02:53.585
+understand that between
+
+66
+00:02:53.585 --> 00:02:56.455
+Artificial Intelligence
+and Data Science.
+
+67
+00:02:56.455 --> 00:02:59.929
+Data Science is the process
+and method for extracting
+
+68
+00:02:59.929 --> 00:03:01.400
+knowledge and insights from
+
+69
+00:03:01.400 --> 00:03:03.760
+large volumes of disparate data.
+
+70
+00:03:03.760 --> 00:03:07.175
+It's an interdisciplinary
+field involving mathematics,
+
+71
+00:03:07.175 --> 00:03:10.070
+statistical analysis,
+data visualization,
+
+72
+00:03:10.070 --> 00:03:11.915
+machine learning, and more.
+
+73
+00:03:11.915 --> 00:03:14.240
+It's what makes it
+possible for us to
+
+74
+00:03:14.240 --> 00:03:16.865
+appropriate information,
+see patterns,
+
+75
+00:03:16.865 --> 00:03:18.860
+find meaning from
+large volumes of
+
+76
+00:03:18.860 --> 00:03:22.675
+data and use it to make
+decisions that drive business.
+
+77
+00:03:22.675 --> 00:03:25.040
+Data Science can use many of
+
+78
+00:03:25.040 --> 00:03:28.400
+the AI techniques to
+derive insight from data.
+
+79
+00:03:28.400 --> 00:03:32.375
+For example, it could use
+machine learning algorithms and
+
+80
+00:03:32.375 --> 00:03:34.580
+even deep learning
+models to extract
+
+81
+00:03:34.580 --> 00:03:37.565
+meaning and draw
+inferences from data.
+
+82
+00:03:37.565 --> 00:03:41.720
+There is some interaction
+between AI and Data Science,
+
+83
+00:03:41.720 --> 00:03:44.210
+but one is not a
+subset of the other.
+
+84
+00:03:44.210 --> 00:03:47.900
+Rather, Data Science is a
+broad term that encompasses
+
+85
+00:03:47.900 --> 00:03:52.055
+the entire data processing
+methodology while AI includes
+
+86
+00:03:52.055 --> 00:03:54.575
+everything that allows
+computers to learn how to
+
+87
+00:03:54.575 --> 00:03:57.635
+solve problems and make
+intelligent decisions.
+
+88
+00:03:57.635 --> 00:04:02.210
+Both AI and Data Science can
+involve the use of big data.
+
+89
+00:04:02.210 --> 00:04:06.210
+That is, significantly
+large volumes of data.

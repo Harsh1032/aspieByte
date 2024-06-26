@@ -1,0 +1,413 @@
+WEBVTT
+
+1
+00:00:00.000 --> 00:00:16.309
+[MUSIC]
+
+2
+00:00:16.309 --> 00:00:22.764
+It's, I guess,
+Computer Sciences attempt to mimic real,
+
+3
+00:00:22.764 --> 00:00:28.339
+the neurons,
+in how our brain actually functions.
+
+4
+00:00:28.339 --> 00:00:33.340
+So 20-23 years ago, a neural network would
+have some inputs that would come in.
+
+5
+00:00:33.340 --> 00:00:37.688
+They would be fed into different
+processing nodes that would
+
+6
+00:00:37.688 --> 00:00:41.781
+then do some transformation on them and
+aggregate them or
+
+7
+00:00:41.781 --> 00:00:46.088
+something, and
+then maybe go to another level of nodes.
+
+8
+00:00:46.088 --> 00:00:50.740
+And finally there would some output would
+come out, and I can remember training
+
+9
+00:00:50.740 --> 00:00:56.460
+a neural network to recognize digits,
+handwritten digits and stuff.
+
+10
+00:01:00.570 --> 00:01:04.575
+So a neural network is
+trying to use computer,
+
+11
+00:01:04.575 --> 00:01:08.500
+a computer program that
+will mimic how neurons,
+
+12
+00:01:08.500 --> 00:01:13.900
+how our brains use neurons to process
+thing, neurons and synapses and
+
+13
+00:01:13.900 --> 00:01:18.032
+building these complex
+networks that can be trained.
+
+14
+00:01:18.032 --> 00:01:22.190
+So this neural network starts
+out with some inputs and
+
+15
+00:01:22.190 --> 00:01:26.520
+some outputs, and you keep feeding
+these inputs in to try to see
+
+16
+00:01:28.200 --> 00:01:31.260
+what kinds of transformations
+will get to these outputs.
+
+17
+00:01:31.260 --> 00:01:33.740
+And you keep doing this over,
+and over, and
+
+18
+00:01:33.740 --> 00:01:37.410
+over again in a way that this
+network should converge.
+
+19
+00:01:37.410 --> 00:01:41.040
+So these input, the transformations
+will eventually get these outputs.
+
+20
+00:01:41.040 --> 00:01:46.010
+Problem with neural networks was that even
+though the theory was there and they did
+
+21
+00:01:46.010 --> 00:01:50.880
+work on small problems like recognizing
+handwritten digits and things like that.
+
+22
+00:01:50.880 --> 00:01:55.360
+They were computationally
+very intensive and so
+
+23
+00:01:55.360 --> 00:01:59.480
+they went out of favor and I stopped
+teaching them probably 15 years ago.
+
+24
+00:02:00.600 --> 00:02:05.890
+And then all of a sudden we started
+hearing about deep learning,
+
+25
+00:02:05.890 --> 00:02:07.150
+heard the term deep learning.
+
+26
+00:02:07.150 --> 00:02:11.280
+This is another term,
+when did you first hear it?
+
+27
+00:02:11.280 --> 00:02:13.560
+Four years ago, five years ago?
+
+28
+00:02:13.560 --> 00:02:16.310
+And so, I finally said,
+what the hell is deep learning?
+
+29
+00:02:16.310 --> 00:02:19.345
+It's really doing all this great stuff,
+what is it?
+
+30
+00:02:19.345 --> 00:02:24.774
+And I Google, I was like,
+this is neural networks on steroids.
+
+31
+00:02:24.774 --> 00:02:29.242
+What they did was they just had
+multiple layers of neural networks, and
+
+32
+00:02:29.242 --> 00:02:33.565
+they use lots, and lots, and
+lots of computing power to solve them.
+
+33
+00:02:33.565 --> 00:02:39.174
+Just before this interview, I had
+a young faculty member in the marketing
+
+34
+00:02:39.174 --> 00:02:44.710
+department whose research is
+partially based on deep learning.
+
+35
+00:02:44.710 --> 00:02:49.720
+And so she needs a computer that has
+a Graphics Processing Unit in it,
+
+36
+00:02:49.720 --> 00:02:54.890
+because it takes enormous amount of
+matrix and linear algebra calculations
+
+37
+00:02:54.890 --> 00:03:01.120
+to actually do all of the mathematics
+that you need in neural networks.
+
+38
+00:03:02.360 --> 00:03:06.070
+But they've been they
+are now quite capable.
+
+39
+00:03:06.070 --> 00:03:10.550
+We now have neural networks and
+deep learning that can recognize speech,
+
+40
+00:03:10.550 --> 00:03:16.060
+can recognize people, you got there,
+getting your face recognized.
+
+41
+00:03:16.060 --> 00:03:22.190
+I guarantee that NSA has a lot of
+work going on in neural networks.
+
+42
+00:03:22.190 --> 00:03:27.506
+The university right now,
+as director of research computing,
+
+43
+00:03:27.506 --> 00:03:33.670
+I have some small set of machines
+down at our south data center,
+
+44
+00:03:33.670 --> 00:03:37.670
+and I went in there last week and
+there were just piles, and piles, and
+
+45
+00:03:37.670 --> 00:03:43.720
+piles of cardboard boxes all from
+Dell with a GPU on the side.
+
+46
+00:03:43.720 --> 00:03:46.420
+Well, the GPU is
+a Graphics Processing Unit.
+
+47
+00:03:46.420 --> 00:03:51.050
+There's only one application
+in this University that needs
+
+48
+00:03:51.050 --> 00:03:55.900
+two hundred servers each with
+Graphics Processing Units in it, and
+
+49
+00:03:55.900 --> 00:04:01.510
+each Graphics Processing Unit, it has like
+the equivalent of 600 cores of processing.
+
+50
+00:04:01.510 --> 00:04:06.870
+So this is tens of thousands of
+processing cores that is for
+
+51
+00:04:06.870 --> 00:04:08.370
+deep learning, I guarantee.
+
+52
+00:04:12.630 --> 00:04:16.966
+Some of the first ones
+are speech recognition,
+
+53
+00:04:18.860 --> 00:04:22.460
+who teaches the deep
+learning class at NYU, and
+
+54
+00:04:22.460 --> 00:04:27.140
+is also the head data scientist
+at Facebook comes into
+
+55
+00:04:27.140 --> 00:04:31.900
+class with a notebook, and
+it's a pretty thick notebook.
+
+56
+00:04:31.900 --> 00:04:34.153
+It looks a little odd,
+because it's like this and
+
+57
+00:04:34.153 --> 00:04:38.860
+it's that thick because it has a couple
+of Graphics Processing Units in it, and
+
+58
+00:04:38.860 --> 00:04:42.860
+then he will ask the class to
+start to speak to this thing.
+
+59
+00:04:42.860 --> 00:04:46.550
+And it will train while he's in class,
+
+60
+00:04:46.550 --> 00:04:50.460
+he will train a neural
+network to recognize speech.
+
+61
+00:04:50.460 --> 00:04:55.000
+So recognizing speech, recognizing people,
+
+62
+00:04:55.000 --> 00:04:59.310
+images, classifying images, almost all of
+
+63
+00:04:59.310 --> 00:05:04.990
+the the traditional tasks that neural nets
+used to work on in little tiny things.
+
+64
+00:05:04.990 --> 00:05:08.360
+Now, they can do really,
+really, really large things.
+
+65
+00:05:08.360 --> 00:05:12.906
+It will learn on its own,
+the difference between a cat and a dog,
+
+66
+00:05:12.906 --> 00:05:16.816
+and different kinds of objects,
+it doesn't have to be taught.
+
+67
+00:05:16.816 --> 00:05:21.540
+It doesn't,
+it just learns that's why they call it
+
+68
+00:05:21.540 --> 00:05:26.150
+deep learning, and if you hear,
+
+69
+00:05:26.150 --> 00:05:30.809
+he plays this, if you hear how it
+recognizes speech and generate speech.
+
+70
+00:05:32.030 --> 00:05:33.650
+It sounds like a baby
+who learning to talk.
+
+71
+00:05:35.230 --> 00:05:38.200
+You can just, you're like really do about
+
+72
+00:05:41.016 --> 00:05:47.060
+all of a sudden this stupid machine is
+talking to you and learned how to talk.
+
+73
+00:05:48.280 --> 00:05:48.780
+That's cool.
+
+74
+00:05:55.060 --> 00:05:57.690
+I need to learn some linear algebra,
+
+75
+00:05:59.170 --> 00:06:03.820
+a lot of this a lot of this stuff is
+based on matrix and linear algebra.
+
+76
+00:06:03.820 --> 00:06:08.217
+So you need to know how to do use
+linear algebra do transformations.
+
+77
+00:06:08.217 --> 00:06:12.600
+Now, on the other hand, there's now lots
+of packages out there that will do deep
+
+78
+00:06:12.600 --> 00:06:15.886
+learning and they'll do all
+the linear algebra for you, but
+
+79
+00:06:15.886 --> 00:06:19.126
+you should have some idea of
+what is happening underneath.
+
+80
+00:06:19.126 --> 00:06:26.470
+Deep learning, particularly needs really
+high-powered computational power.
+
+81
+00:06:26.470 --> 00:06:31.390
+So it's not something that you're going to
+go out and do on your notebook for it.
+
+82
+00:06:31.390 --> 00:06:33.370
+You could play with it.
+
+83
+00:06:33.370 --> 00:06:35.450
+But if you really want to do it,
+seriously,
+
+84
+00:06:35.450 --> 00:06:38.161
+you have to have some special
+computational resources.
+
+85
+00:06:38.161 --> 00:06:42.000
+[MUSIC]
