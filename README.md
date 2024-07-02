@@ -1,4 +1,2 @@
 # aspieByteV1
-A platform that allows students with autism to study.
-The Front end has been coded using React and tailwind along with some other libararies.
-The backend has been done with Node.js and for databse SQL Lite was used.
+A specialized learning platform tailored specifically for individuals with autism spectrum disorder, integrating a stress detection mechanism that halts study sessions upon reaching predefined stress thresholds.
